@@ -1,6 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently developing ElderGymBro, a fitness app with a nerdy theme.<br>🌍 I'm passionate about hiking, running, science, and technology.<br>🤝 I’m actively seeking opportunities to leverage my full-stack development skills in exciting new projects.<br>🌱 Right now, I’m diving deep into Next.js and TypeScript to broaden my technical toolkit.<br>⚡ I’m dedicated to continuous learning, always staying ahead by mastering the latest in tech.
-
+🔭 I’m currently developing [ElderGymBro](https://github.com/MichalWollny/ElderGymBroApp), a fitness app with a nerdy theme.<br>
+🌍 I'm passionate about hiking, running, science, and technology.<br>
+🤝 I’m actively seeking opportunities to leverage my full-stack development skills in exciting new projects.<br>
+🌱 Right now, I’m diving deep into Next.js and TypeScript to broaden my technical toolkit.<br>
+⚡ I’m dedicated to continuous learning, always staying ahead by mastering the latest in tech.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rbrixel) 
