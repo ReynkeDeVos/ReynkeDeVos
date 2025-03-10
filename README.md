@@ -77,12 +77,10 @@
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/rbrixel">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/ReynkeDeVos">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <p>💻 Let's talk about terminal productivity tools and command line workflows</p>
+  <p>🏔️ Share hiking trails in mountain regions - always looking for new adventures</p>
+  <p>🏃‍♂️ Connect about running techniques and favorite routes</p>
+  <p>🌐 Discuss modern web development practices and UI/UX innovations</p>
 </div>
 
 <br>
