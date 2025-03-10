@@ -20,7 +20,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReynkeDeVos&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="320" />
 
 - 👨‍🏫 I'm an **Instructor for App & Web Full-Stack Development** at **WBS Coding School**
-- 🔭 I'm currently **looking for new job opportunities**
+- 🔭 I'm currently **starting my new role and excited for the journey ahead**
 - 🌱 I'm currently diving deep into **Next.js** and **TypeScript**
 - 🚀 I love building applications with **React** and **Node.js**
 - 🌍 Passionate about **hiking, running, science, and technology**
