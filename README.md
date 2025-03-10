@@ -1,6 +1,4 @@
-[![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)](#)
-[![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)](#)
-[![Terminal](https://img.shields.io/badge/Terminal-%234D4D4D?logo=gnu-bash&logoColor=white)](#)# Hello World! I'm Renke 👋
+# Hello World! I'm Renke 👋
 
 ### Full-Stack Developer & Coding Instructor
 
@@ -15,17 +13,12 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ReynkeDeVos&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 - 👨‍🏫 I'm an **Instructor for App & Web Full-Stack Development** at **WBS Coding School**
-- 🔭 I'm currently **starting my new role and excited for the journey ahead**
-- 🌱 I'm currently diving deep into **Teaching** and exploring **Linux** workflows for development
+- 🌱 I'm currently diving deep into **Teaching** and exploring **Windows** for development (coming from 20 years of Linux)
 - 🚀 I love building applications with **React**, **Vite** and **Node.js**
 - 📝 Organizing my knowledge and workflows with **Obsidian** and **Excalidraw**
 - 📊 Creating technical documentation with **LaTeX** and Markdown
 - 🌍 Passionate about **hiking, running, science, terminal based workflows and technology**
 - ⚡ Dedicated to **continuous learning** and staying ahead in tech
-
-[![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)](#)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
-[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](#)
 
 ## 🛠️ Tech Stack
 
@@ -43,7 +36,6 @@
 ### Backend
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -74,11 +66,6 @@
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 
 ## 🌐 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#)
 
 - 💻 Let's talk about terminal productivity tools and Linux command line workflows
 - 📝 Share knowledge management techniques with Obsidian, Excalidraw and PKM systems
