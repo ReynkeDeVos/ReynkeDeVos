@@ -1,88 +1,97 @@
-<!-- Banner Image -->
+<!-- Banner Image - Keeping your personal banner -->
 ![Banner](./assets/banner.avif)
 
-<!-- Introduction -->
-<h1 align="center">Hello World! I'm Renke 👋</h1>
+<div align="center">
+  <h1>Hello World! I'm Renke 👋</h1>
+  <h3>Full-Stack Developer & Coding Instructor</h3>
+  
+  <!-- More focused typing animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=61DAFB&width=500&lines=React+%26+Node.js+Specialist;Instructor+at+WBS+Coding+School;Clean+Code+Advocate" />
+  
+  <p>🌟 Passionate about clean code, teaching, and continuous growth</p>
+</div>
 
-<h3 align="center">
-  Full-Stack Developer & Coding Instructor
-</h3>
-
-<p align="center">
-  🌟 Passionate about clean code, teaching, and continuous growth.
-</p>
-
----
-
-<!-- Typing animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=61DAFB&width=600&lines=Full-Stack+Developer;Instructor+%7C+Mentor;Hiking+%7C+Running+%7C+Tech+Enthusiast"/>
-</p>
-
----
+<!-- Primary skills - streamlined presentation -->
+<div align="center">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white" />
+</div>
 
 ## 💫 About Me
 
 - 👨‍🏫 **Instructor** at **WBS Coding School**
 - 🚀 Specializing in **React, Vite, Node.js**
-- 🌱 Exploring developing on **Windows** after 20 years on Linux
+- 🌱 Exploring development on **Windows** after 20 years on Linux
 - 📝 Knowledge organization with **Obsidian** & **Excalidraw**
-- 📊 Docs in **LaTeX** & Markdown
+- 📊 Documentation in **LaTeX** & Markdown
 - 🏃‍♂️ **Hiking, running, science, and terminal workflows enthusiast**
+-  💻✨ <strong>Let's build something amazing together!</strong>
 
----
+## 🔧 Tech Stack
 
 <details>
-  <summary><strong>🔧 Expand Full Tech Stack</strong></summary>
-  <!-- Badge Section (consistent style) -->
-  
-  ### Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-
-### Backend
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)
-
-### UI/UX & Tools
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Excalidraw](https://img.shields.io/badge/Excalidraw-%23000000.svg?style=for-the-badge&logo=excalidraw&logoColor=white)
-
-### Deployment & Management
-![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### Knowledge Management & Productivity
-![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=fff)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  <summary><strong>Frontend</strong></summary>
+  <div>
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" />
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" />
+    <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white" />
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" />
+    <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=white" />
+    <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white" />
+  </div>
 </details>
 
----
+<details>
+  <summary><strong>Backend</strong></summary>
+  <div>
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB" />
+    <img src="https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens" />
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white" />
+  </div>
+</details>
+
+<details>
+  <summary><strong>UI/UX & Tools</strong></summary>
+  <div>
+    <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white" />
+    <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=mui&logoColor=white" />
+    <img src="https://img.shields.io/badge/daisyui-5A0EF8?style=flat&logo=daisyui&logoColor=white" />
+    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" />
+    <img src="https://img.shields.io/badge/Excalidraw-%23000000.svg?style=flat&logo=excalidraw&logoColor=white" />
+  </div>
+</details>
+
+<details>
+  <summary><strong>Deployment & Management</strong></summary>
+  <div>
+    <img src="https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7" />
+    <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white" />
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  </div>
+</details>
+
+<details>
+  <summary><strong>Knowledge Management & Productivity</strong></summary>
+  <div>
+    <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=flat&logo=obsidian&logoColor=white" />
+    <img src="https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=fff" />
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white" />
+  </div>
+</details>
 
 ## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ReynkeDeVos&layout=compact&theme=tokyonight)
 
----
-
-<p align="center">
-<strong>Let's build something amazing together! 💻✨</strong>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReynkeDeVos&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
