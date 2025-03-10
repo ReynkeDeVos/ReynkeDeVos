@@ -1,11 +1,7 @@
 <!-- Banner Image -->
-![Banner](https://photos.app.goo.gl/2vMADyS1o8HgVspr7)
+![Banner](./assets/banner.avif)
 
-<!-- Introduction with avatar -->
-<p align="center">
-  <img src="url-to-avatar-image" width="120" style="border-radius: 50%;"/>
-</p>
-
+<!-- Introduction -->
 <h1 align="center">Hello World! I'm Renke 👋</h1>
 
 <h3 align="center">
@@ -19,7 +15,9 @@
 ---
 
 <!-- Typing animation -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Instructor+%7C+Mentor;Hiking+%7C+Running+%7C+Tech+Enthusiast)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=61DAFB&width=600&lines=Full-Stack+Developer;Instructor+%7C+Mentor;Hiking+%7C+Running+%7C+Tech+Enthusiast"/>
+</p>
 
 ---
 
@@ -34,18 +32,10 @@
 
 ---
 
-## 📂 Project Highlights
-
-| Project | Screenshot | Stack |
-| --- | --- | --- |
-| [Project](url) | ![Screenshot](img-link) | React, Node |
-| [Project](url) | ![Screenshot](img-link) | Vite, MongoDB |
-
----
-
 <details>
   <summary><strong>🔧 Expand Full Tech Stack</strong></summary>
   <!-- Badge Section (consistent style) -->
+  
   ### Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
