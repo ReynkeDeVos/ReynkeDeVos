@@ -73,18 +73,6 @@
 
 <br>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ReynkeDeVos&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ReynkeDeVos&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" width="47%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=ReynkeDeVos&theme=tokyonight&no-frame=true&no-bg=false&column=3" alt="GitHub Trophies" width="47%" />
-</div>
-
-<br>
 
 ## 🌐 Connect With Me
 
