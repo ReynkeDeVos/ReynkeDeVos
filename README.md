@@ -65,7 +65,6 @@
 
 ## 🌐 Connect With Me
 
-- [LinkedIn](https://linkedin.com/in/yourprofile) | [Website](https://renke-brixel.netlify.app/)
 - Let’s discuss: Terminal productivity | Web Development | Knowledge Management | Outdoor adventures
 
 ---
