@@ -21,8 +21,8 @@
 
 - 👨‍🏫 I'm an **Instructor for App & Web Full-Stack Development** at **WBS Coding School**
 - 🔭 I'm currently **starting my new role and excited for the journey ahead**
-- 🌱 I'm currently diving deep into **Next.js** and **TypeScript**
-- 🚀 I love building applications with **React** and **Node.js**
+- 🌱 I'm currently diving deep into **Teaching** and learning how to use **Windows**, coming from a Linux world
+- 🚀 I love building applications with **React** and **Tailwind**
 - 🌍 Passionate about **hiking, running, science, and technology**
 - ⚡ Dedicated to **continuous learning** and staying ahead in tech
 
