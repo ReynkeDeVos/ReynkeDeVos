@@ -1,12 +1,14 @@
-# Hello World! I'm Renke 👋
+[![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)](#)
+[![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)](#)
+[![Terminal](https://img.shields.io/badge/Terminal-%234D4D4D?logo=gnu-bash&logoColor=white)](#)# Hello World! I'm Renke 👋
 
 ### Full-Stack Developer & Coding Instructor
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6E56CF&center=true&vCenter=true&width=435&lines=Passionate+about+clean+code;Full-Stack+Development+Instructor;Always+learning%2C+always+growing)
 
-![Full-Stack Developer](https://img.shields.io/badge/-Full_Stack_Developer-6E56CF?style=for-the-badge)
-![Coding Instructor](https://img.shields.io/badge/-Coding_Instructor-22C55E?style=for-the-badge)
-![Tech Enthusiast](https://img.shields.io/badge/-Tech_Enthusiast-3B82F6?style=for-the-badge)
+[![Full-Stack Developer](https://img.shields.io/badge/-Full_Stack_Developer-6E56CF?style=for-the-badge)](#)
+[![Coding Instructor](https://img.shields.io/badge/-Coding_Instructor-22C55E?style=for-the-badge)](#)
+[![Tech Enthusiast](https://img.shields.io/badge/-Tech_Enthusiast-3B82F6?style=for-the-badge)](#)
 
 ## 💫 About Me
 
@@ -20,6 +22,10 @@
 - 📊 Creating technical documentation with **LaTeX** and Markdown
 - 🌍 Passionate about **hiking, running, science, terminal based workflows and technology**
 - ⚡ Dedicated to **continuous learning** and staying ahead in tech
+
+[![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)](#)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](#)
 
 ## 🛠️ Tech Stack
 
@@ -63,13 +69,16 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Knowledge Management & Productivity
-![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Terminal](https://img.shields.io/badge/Terminal-%234D4D4D.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+[![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](#)
+[![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](#)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 
 ## 🌐 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#)
 
 - 💻 Let's talk about terminal productivity tools and Linux command line workflows
 - 📝 Share knowledge management techniques with Obsidian, Excalidraw and PKM systems
