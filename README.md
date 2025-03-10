@@ -62,7 +62,7 @@
 
 - GitHub Pages, Netlify, Render
 - Git, Linux
-- Trello
+- Trello, Linear
 
 </details>
 
