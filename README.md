@@ -25,7 +25,7 @@
 
 - 👨‍🏫 **Instructor** at **WBS Coding School**
 - 🚀 Specializing in **React, Vite, Node.js**
-- 🌱 Exploring **Windows development** after 20 years on Linux
+- 🌱 Exploring developing on **Windows** after 20 years on Linux
 - 📝 Knowledge organization with **Obsidian** & **Excalidraw**
 - 📊 Docs in **LaTeX** & Markdown
 - 🏃‍♂️ **Hiking, running, science, and terminal workflows enthusiast**
