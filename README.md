@@ -1,17 +1,17 @@
-<!-- Banner Image - Keeping your personal banner -->
+<!-- Banner Image -->
 ![Banner](./assets/banner.avif)
 
 <div align="center">
   <h1>Hello World! I'm Renke 👋</h1>
   <h3>Full-Stack Developer & Coding Instructor</h3>
   
-  <!-- More focused typing animation -->
+  <!-- Typing animation -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=61DAFB&width=500&lines=React+%26+Node.js+Specialist;Instructor+at+WBS+Coding+School;Clean+Code+Advocate" />
   
   <p>🌟 Passionate about clean code, teaching, and continuous growth</p>
 </div>
 
-<!-- Primary skills - streamlined presentation -->
+<!-- Primary skills -->
 <div align="center">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" />
