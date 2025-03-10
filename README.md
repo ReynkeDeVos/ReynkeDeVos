@@ -65,7 +65,7 @@
 
 ## 🌐 Connect With Me
 
-- Let’s discuss: Terminal productivity | Web Development | Knowledge Management | Outdoor adventures
+- Let’s discuss: Terminal productivity | Web Development | Outdoor adventures
 
 ---
 
