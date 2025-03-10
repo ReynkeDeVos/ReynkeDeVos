@@ -1,26 +1,52 @@
-# Hello World! I'm Renke 👋
+<!-- Banner Image -->
+![Banner](https://photos.app.goo.gl/2vMADyS1o8HgVspr7)
 
-### Full-Stack Developer & Coding Instructor
+<!-- Introduction with avatar -->
+<p align="center">
+  <img src="url-to-avatar-image" width="120" style="border-radius: 50%;"/>
+</p>
 
-🌟 Passionate about clean code, teaching, and continuous growth.
+<h1 align="center">Hello World! I'm Renke 👋</h1>
+
+<h3 align="center">
+  Full-Stack Developer & Coding Instructor
+</h3>
+
+<p align="center">
+  🌟 Passionate about clean code, teaching, and continuous growth.
+</p>
+
+---
+
+<!-- Typing animation -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Instructor+%7C+Mentor;Hiking+%7C+Running+%7C+Tech+Enthusiast)
 
 ---
 
 ## 💫 About Me
 
-- 👨‍🏫 **Instructor** for Full-Stack App & Web Development at **WBS Coding School**
-- 🚀 Specializing in **React, Vite, and Node.js**
-- 🌱 Exploring developing on **Windows** after living 20 years on Linux
-- 📝 Organizing knowledge with **Obsidian** & **Excalidraw**
-- 📊 Writing docs with **LaTeX** & Markdown
-- 🏃‍♂️ Passionate about **hiking, running, science, and terminal workflows**
+- 👨‍🏫 **Instructor** at **WBS Coding School**
+- 🚀 Specializing in **React, Vite, Node.js**
+- 🌱 Exploring **Windows development** after 20 years on Linux
+- 📝 Knowledge organization with **Obsidian** & **Excalidraw**
+- 📊 Docs in **LaTeX** & Markdown
+- 🏃‍♂️ **Hiking, running, science, and terminal workflows enthusiast**
+
+---
+
+## 📂 Project Highlights
+
+| Project | Screenshot | Stack |
+| --- | --- | --- |
+| [Project](url) | ![Screenshot](img-link) | React, Node |
+| [Project](url) | ![Screenshot](img-link) | Vite, MongoDB |
 
 ---
 
 <details>
   <summary><strong>🔧 Expand Full Tech Stack</strong></summary>
-
-### Frontend
+  <!-- Badge Section (consistent style) -->
+  ### Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -58,15 +84,15 @@
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=fff)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
 </details>
 
 ---
 
-## 🌐 Connect With Me
-
-- Let’s discuss: Terminal productivity | Web Development | Outdoor adventures
+## 📊 GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ReynkeDeVos&layout=compact&theme=tokyonight)
 
 ---
 
-**Let's build something amazing together!** 💻✨
+<p align="center">
+<strong>Let's build something amazing together! 💻✨</strong>
+</p>
