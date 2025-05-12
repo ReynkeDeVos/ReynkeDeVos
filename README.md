@@ -1,3 +1,5 @@
+![Geeks for Geeks Banner](./assets/banner.avif)
+
 ## 👋 Hello, I'm Renke Brixel!
 
 👨‍💻 **Full-Stack Developer & Instructor at WBS Coding School**
