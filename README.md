@@ -3,6 +3,7 @@
 ## 👋 Hello, I'm Renke Brixel!
 
 👨‍💻 **Full-Stack Developer & Instructor at WBS Coding School**
+
 🌟 *Specializing in React, Node.js, and Modern Web Development*
 
 ---
