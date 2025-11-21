@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-%236DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
 
@@ -15,9 +16,4 @@
 ![It ain't much but it's honest work](https://media.giphy.com/media/1jCs6Doz3WRtOPl6bq/giphy.gif)
 ---
 
-**🚪 Exit Neovim & let's**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-151515?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rbrixel)
-[![Website](https://img.shields.io/badge/Website-Visit_Me-151515?style=flat&logo=netlify&logoColor=white)](https://renke-brixel.netlify.app/)
-
-
+**🚪 :wq &** <a href="https://www.linkedin.com/in/rbrixel"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" align="center" /></a>
