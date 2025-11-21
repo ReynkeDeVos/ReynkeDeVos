@@ -1,6 +1,6 @@
 ## `console.log("I code, therefore I break things.");` 
 
-**Full-Stack Dev | Instructor at WBS | Ultra runner | I use Arch btw (20 years+)**
+### Full-Stack Dev | Instructor at WBS | Ultra runner | I use Arch btw (20 years+)
 
 <div>
   <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" />
