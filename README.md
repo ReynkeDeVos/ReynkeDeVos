@@ -16,4 +16,4 @@
 ![It ain't much but it's honest work](https://media.giphy.com/media/1jCs6Doz3WRtOPl6bq/giphy.gif)
 ---
 
-**`:wq` &** <a href="https://www.linkedin.com/in/rbrixel"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" align="center" /></a>
+#### `:wq` & <a href="https://www.linkedin.com/in/rbrixel"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" align="center" /></a>
