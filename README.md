@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
 
-![Renke's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ReynkeDeVos&layout=compact&theme=radical)
+<!--  ![Renke's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ReynkeDeVos&layout=compact&theme=radical) -->
 
 ![It ain't much but it's honest work](https://media.giphy.com/media/1jCs6Doz3WRtOPl6bq/giphy.gif)
 ---
