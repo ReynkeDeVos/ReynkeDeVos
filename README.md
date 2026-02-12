@@ -1,6 +1,14 @@
-## `console.log("I code, therefore I break things.");` 
+```ts
+const me = [
+  "Full-Stack Dev",
+  "Instructor at WBS Coding School",
+  "Ultra runner",
+  "Solving problems that shouldn't exist",
+  "I use Arch btw" // 20+ years
+];
 
-### Full-Stack Dev `&&` Instructor at WBS `&&` Ultra runner `&&` I use Arch btw (20+ years)
+console.log("I code, therefore I break things.");
+```
 
 <div>
   <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" />
