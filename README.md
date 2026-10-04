@@ -20,6 +20,7 @@ console.log("I code, therefore I break things.");
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23_%2F_.NET-%23512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-%23D97757?style=for-the-badge&logo=claude&logoColor=white" />
 </div>
 
 <!--  ![Renke's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ReynkeDeVos&layout=compact&theme=radical) -->
